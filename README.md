@@ -12,6 +12,7 @@ Ishtyle aims to serve as an virtual platform where customers are able to book ap
 
 - Aashish Dubey 6313771 
 - Manal Mahmood 6340044 
+- Akira Gikalov 6413246
 
 
 ## Data Model 
